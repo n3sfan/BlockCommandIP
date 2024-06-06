@@ -1,0 +1,11 @@
+Message:
+  CommandBlocked: 'Ban ko co quyen dung lenh nay!'
+
+BlockCommands:
+  - /dangky
+  - /login
+  - /register
+  - /rg
+
+BlockIPs:
+  -

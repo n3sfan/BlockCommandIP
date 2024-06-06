@@ -1,0 +1,10 @@
+name: BlockCommandIP
+version: '${version}'
+main: me.lethinh.blockcommandip.BlockCommandIP
+api-version: '1.13'
+commands:
+  blockcommandip:
+    description: 'Block command IP plugin'
+    aliases:  [bcip]
+    usage: '/blockcommandip reload'
+    permission: blockcommandip.admin
